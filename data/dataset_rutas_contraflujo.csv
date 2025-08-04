@@ -1,0 +1,19 @@
+Origen,Destino,Distancia,Hora,Dia de la semana,Clima,Evento,Tiempo
+Tunja,Tocancipá,105,7,Lunes,Soleado,Ninguno,2.2
+Tunja,Villa de Leyva,35,10,Miércoles,Nublado,Obra,1.1
+Tocancipá,Bogotá,40,8,Viernes,Lluvia,Ninguno,1.8
+Bogotá,Villeta,66,12,Sábado,Soleado,Cierre de vía,3.0
+Villeta,Manizales,115,14,Domingo,Nublado,Ninguno,4.5
+Villa de Leyva,Chiquinquira,34,9,Martes,Soleado,Ninguno,1.0
+Chiquinquira,Zipaquira,90,13,Jueves,Lluvia,Obra,3.8
+Zipaquirá,Chia,25,10,Miércoles,Soleado,Ninguno,0.7
+Chia,Bogotá,16,11,Viernes,Lluvia,Ninguno,0.9
+Bogotá,Soacha,26,17,Lunes,Nublado,Obra,1.5
+Soacha,Fusagasuga,30,15,Jueves,Soleado,Ninguno,1.1
+Fusagasuga,Melgar,34,8,Miércoles,Soleado,Ninguno,1.0
+Melgar,Ibague,70,10,Sábado,Lluvia,Cierre de vía,3.1
+Soacha,Girardot,45,16,Martes,Nublado,Ninguno,2.0
+Girardot,Ibague,43,9,Domingo,Soleado,Ninguno,1.5
+Ibague,Armenia,47,13,Jueves,Nublado,Ninguno,2.1
+Armenia,Pereira,39,11,Miércoles,Lluvia,Obra,2.3
+Pereira,Manizales,46,14,Viernes,Soleado,Ninguno,1.7
